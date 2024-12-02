@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukumar</h1>
-<h3 align="center">Competitive programming enthusiast (beginner)</h3>
+<h3 align="center">Competitive programming enthusiast | Avid learner </h3>
 
 <p align="left"> <a href="https://twitter.com/Sukumarsawant" target="blank"><img src="https://img.shields.io/twitter/follow/sawantsukumar?logo=twitter&style=for-the-badge" alt="sawantsukumar" /></a> </p>
 
