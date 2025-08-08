@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://twitter.com/Sukumarsawant" target="blank"><img src="https://img.shields.io/twitter/follow/sawantsukumar?logo=twitter&style=for-the-badge" alt="sawantsukumar" /></a> </p>
+<p align="left"> <a href="https://x.com/18yearodd" target="blank"><img src="https://img.shields.io/twitter/follow/sawantsukumar?logo=twitter&style=for-the-badge" alt="sawantsukumar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
