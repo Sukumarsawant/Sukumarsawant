@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sukumarsawant)
-<p align="left"> <a href="https://x.com/18yearodd" target="blank"><img src="https://img.shields.io/twitter/follow/sawantsukumar?logo=twitter&style=for-the-badge" alt="sawantsukumar" /></a> </p>
 
+Second-year student at Mumbai University. I mainly code C/C++, and others are Python, Java, JavaScript, and backends. Mostly do competitive programming and exploring Compilers and computer arithmetics currently.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/18yearodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sawantsukumar" height="30" width="40" /></a>
