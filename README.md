@@ -5,8 +5,7 @@ Second-year student at Mumbai University. I mainly code C/C++, and others are Py
 <p align="left">
 <a href="https://x.com/18yearodd" target="_blank" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/sukumar-sawant" target="_blank" style="display:inline-block;">
+</a><a href="https://www.linkedin.com/in/sukumar-sawant" target="_blank" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/sukumarsawant" target="_blank" style="display:inline-block;">
